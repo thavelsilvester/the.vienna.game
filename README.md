@@ -117,7 +117,7 @@
 					<td>Line: Four Knights Game</td>
 					<td><a href="https://www.chess.com/analysis/collection/vienna-game-Gxu2w3RQ/5Z97DUDbfU/analysis"> Four Knights Game </a></td>
 					<td>
-						<img src="https://lh3.googleusercontent.com/u/0/d/1NEtEujzrc9I3w-6HyIBttV1zRH6gqC1- " alt="Four Knights Game"width="250" height="250">
+						<img src="https://lh3.googleusercontent.com/u/0/d/1NEtEujzrc9I3w-6HyIBttV1zRH6gqC1- " alt="Four Knights Game" width="250" height="250">
 					</td>
 				</tr>
 				<tr>
